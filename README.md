@@ -9,4 +9,5 @@ From this site you will be able to download two templates. One has instructions 
 
 
 <a id="raw-url" href="https://github.com/abbykong/powerbi-kickstarter-pack/raw/main/template1-import-mode-with-instructions.pbit">Download Template 1</a>
+
 <a id="raw-url" href="https://github.com/abbykong/powerbi-kickstarter-pack/raw/main/template2-import-mode-clean.pbit">Download Template 2</a>
